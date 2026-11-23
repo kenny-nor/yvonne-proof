@@ -17,6 +17,13 @@ This repository publishes the exact picks behind each code, so anyone can check 
 | Genie in a Bottle Picks (slip as placed 12:58 PM) | `2026/week11/genie.json` | **BAA050C615568061** | 1:11 PM ET (after the 1:00 games started) |
 | Sunday Night Picks | `2026/week11/late.json` | **6CAD0AA8102E3D61** | 4:34 PM ET (before the 6:00 PM NBA and 8:20 PM NFL games) |
 
+## Week 12 (Thanksgiving week, Nov 26 to Nov 29, 2026)
+| Box | File | Lock code | Posted |
+|---|---|---|---|
+| Yvonne's Genie Max (12-leg slip, $20 to pay $45,212.66) | `2026/week12/genie_max.json` | **BF09F17FFEAEDF75** | Sun Nov 22, about 8:40 PM ET, before the first game (Thu Nov 26, 1:00 PM ET) |
+
+The bet itself was placed on DraftKings Sun Nov 22 at 7:53:46 PM ET. The three slip screenshots (`dk_slip_*.png`) and the published picture (`genie_max_post.png`) are in the same folder. The code proves the 12 legs were fixed when this file was added, as timed by GitHub. The screenshots show the placement time. Both are display-only and not in the Lightning Strikes record.
+
 ## Honest notes
 - **This repository was created on Nov 22, 2026 at about 5 PM ET.** The Week 11 files below were added after the 1:00 PM games started, so for Week 11 the *independent* timestamp covers only what was added at that moment. The "first live" times in the table come from the app's own private history and cannot be checked from here.
 - **Official picks changed before kickoff.** The 11:03 AM version had Max Return legs KC -10 and NO@CHI Under 58.5. They became KC -6.5 and Under 60.5 (to match lines sportsbooks offer). The Cross Sports box also lost a "Tier A" label on Celtics ML after the noon recheck. The code here is the version published at about 5 PM.
