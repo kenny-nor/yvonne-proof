@@ -16,7 +16,7 @@ This repository publishes the exact picks behind each code, so anyone can check 
 | Cross Sports (NBA picks) | `2026/week11/cross.json` | **8C67F9B73A902B62** | 11:09 AM ET |
 | Genie in a Bottle Picks (slip as placed 12:58 PM) | `2026/week11/genie.json` | **BAA050C615568061** | 1:11 PM ET (after the 1:00 games started) |
 | Sunday Night Picks | `2026/week11/late.json` | **6CAD0AA8102E3D61** | 4:34 PM ET (before the 6:00 PM NBA and 8:20 PM NFL games) |
-| Monday Picks | `2026/week11/monday.json` | **75DCDBC80C2CF9A7** | Mon Nov 23, 7:14 PM ET (before the 8:15 PM NFL kickoff; NBA games tip later) |
+| Monday Picks | `2026/week11/monday.json` | **75DCDBC80C2CF9A7** | Mon Nov 23, 7:14 PM ET (before the 8:15 PM NFL kickoff. Any NBA game that tipped at 7:00 PM ET was already underway) |
 
 ## Week 12 (Thanksgiving week, Nov 26 to Nov 29, 2026)
 | Box | File | Lock code | Posted |
